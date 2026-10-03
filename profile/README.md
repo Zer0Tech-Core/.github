@@ -37,25 +37,26 @@ Aqui estão alguns dos projetos que melhor representam minha capacidade técnica
 *Scanner de rede inteligente com detecção de MAC randomizado, fingerprint de dispositivos e motor híbrido Python + C/ASM para performance extrema.*
 *   **Stack:** Python, C, Assembly x86_64, CVE Lookup
 *   **Diferencial:** Disponível no PyPI.
-*   [Ver Repositório](https://github.com/Zer0Tech-Core/ZNetScan) *(ajuste o link se necessário)*
+*   [Ver Repositório](https://github.com/Zer0G0ld/ZNetScan)
+*   [Ver Repositório PyPi](https://pypi.org/project/znetscan)
 
 ### 📊 ZBX-T00lKit
 *Toolkit completo para Zabbix 7.0 LTS: templates, scripts de automação e widget com IA (Gemini) para análise de dashboards.*
 *   **Stack:** Zabbix, Shell Script, JavaScript, Python
 *   **Diferencial:** Integração de IA para monitoramento proativo.
-*   [Ver Repositório](https://github.com/Zer0Tech-Core/ZBX-T00lKit)
+*   [Ver Repositório](httpshttp://github.com/Zer0G0ld/zbx-t00lkit)
 
 ### 📡 ZoneMonitor
 *Agente SNMP v2c profissional para ESP8266 que monitora temperatura e umidade com display OLED e integração nativa com Zabbix.*
 *   **Stack:** C++, IoT, ESP8266, SNMP
 *   **Diferencial:** Solução de baixo custo para monitoramento de infraestrutura física.
-*   [Ver Repositório](https://github.com/Zer0Tech-Core/ZoneMonitor)
+*   [Ver Repositório](https://github.com/Zer0G0ld/ZoneMonitor)
 
 ### 🏗️ Aristocracia
 *Plataforma full-stack de conhecimento e comunidade com biblioteca digital colaborativa e visualização interativa de grafos.*
 *   **Stack:** Next.js 16, TypeScript, Supabase, Cytoscape.js, OAuth
 *   **Diferencial:** Análise de redes complexas (Teia de Conexões).
-*   [Ver Repositório](https://github.com/Zer0Tech-Core/Aristocracia)
+*   [Ver Site](https://aristocracia.vercel.app/)
 
 > **Nota:** Você pode ver a lista completa dos meus **19 projetos** no meu [Portfólio](https://zer0tech.com.br/portfolio).
 

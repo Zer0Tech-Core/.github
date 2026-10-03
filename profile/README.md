@@ -44,14 +44,14 @@ Aqui estão alguns dos projetos que melhor representam minha capacidade técnica
 *Toolkit completo para Zabbix 7.0 LTS: templates, scripts de automação e widget com IA (Gemini) para análise de dashboards.*
 *   **Stack:** Zabbix, Shell Script, JavaScript, Python
 *   **Diferencial:** Integração de IA para monitoramento proativo.
-*   [Ver Repositório](httpshttp://github.com/Zer0G0ld/zbx-t00lkit)
+*   [Ver Repositório](http://github.com/Zer0G0ld/zbx-t00lkit)
 
 ### 📡 ZoneMonitor
 *Agente SNMP v2c profissional para ESP8266 que monitora temperatura e umidade com display OLED e integração nativa com Zabbix.*
 *   **Stack:** C++, IoT, ESP8266, SNMP
 *   **Diferencial:** Solução de baixo custo para monitoramento de infraestrutura física.
 *   [Ver Repositório](https://github.com/Zer0G0ld/ZoneMonitor)
-
+ 
 ### 🏗️ Aristocracia
 *Plataforma full-stack de conhecimento e comunidade com biblioteca digital colaborativa e visualização interativa de grafos.*
 *   **Stack:** Next.js 16, TypeScript, Supabase, Cytoscape.js, OAuth
